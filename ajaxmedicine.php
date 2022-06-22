@@ -7,4 +7,3 @@ $rsmedicine = mysqli_fetch_array($qsqlmedicine);
 echo $rsmedicine['medicinecost'];
 ?>
 
-
